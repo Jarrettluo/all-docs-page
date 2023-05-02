@@ -60,7 +60,7 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 整个软件架构包括客户端、代理、服务层、存储层。
 
-![image-20230502162920251](/images/image-20230502162920251.png)
+![image-20230502162920251](/images/image-20230502162920251.png){:width="400px"}
 
 
 
@@ -96,12 +96,6 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 ![image-20230502170314630](/images/image-20230502170314630.png)
 
-
-
-
-
-### 
-
 ## 五、性能测试
 
 略
@@ -111,8 +105,6 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 
 ## 六、开源项目地址
-
-
 
 前端项目：
 
