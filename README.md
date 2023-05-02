@@ -60,9 +60,9 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 整个软件架构包括客户端、代理、服务层、存储层。
 
-![image-20230502162920251](/images/image-20230502162920251.png){:width="400px"}
+[comment]: <> (![image-20230502162920251]&#40;/images/image-20230502162920251.png&#41;)
 
-
+<img src="./images/image-20230502162920251.png" width="400px">
 
 ### 2.客户端的设计
 
