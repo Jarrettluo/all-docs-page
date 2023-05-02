@@ -84,9 +84,9 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 ## 三、功能简介图
 
+<img src="./images/image-20230502172323909.png" width="400px">
 
-
-![image-20230502172323909](/images/image-20230502172323909.png)
+[comment]: <> (![image-20230502172323909]&#40;/images/image-20230502172323909.png&#41;)
 
 
 
