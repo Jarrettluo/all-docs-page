@@ -46,11 +46,11 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 与代码同步更新的Demo地址，马上体验：http://81.69.247.172/#/。
 
-![文档分类查看](https://github.com/Jarrettluo/all-docs-page/blob/main/images/Snipaste_2023-05-02_17-25-07.png)
+![文档分类查看](/images/Snipaste_2023-05-02_17-25-07.png)
 
 
 
-![文档全文检索](https://github.com/Jarrettluo/all-docs-page/blob/main/images/image-20230502172608211.png)
+![文档全文检索](/images/image-20230502172608211.png)
 
 ## 二、软件架构
 
@@ -60,7 +60,7 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 整个软件架构包括客户端、代理、服务层、存储层。
 
-![image-20230502162920251](https://github.com/Jarrettluo/all-docs-page/blob/main/images/image-20230502162920251.png)
+![image-20230502162920251](/images/image-20230502162920251.png)
 
 
 
@@ -86,7 +86,7 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 
 
-![image-20230502172323909](https://github.com/Jarrettluo/all-docs-page/blob/main/images/image-20230502172323909.png)
+![image-20230502172323909](/images/image-20230502172323909.png)
 
 
 
@@ -94,7 +94,7 @@ official homepage：https://jiaruiblog.com/all-docs-page/
 
 
 
-![image-20230502170314630](https://github.com/Jarrettluo/all-docs-page/blob/main/images/image-20230502170314630.png)
+![image-20230502170314630](/images/image-20230502170314630.png)
 
 
 
